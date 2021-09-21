@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello World from vim and  Fish terminal
         </a>
       </header>
     </div>
